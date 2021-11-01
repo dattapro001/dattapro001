@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" height="auto" src="https://github.com/dattapro001/dattapro001/blob/main/avento.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/dattapro001/dattapro001/blob/main/avento.gif" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chinmoy Datta Priom</h1>
 <h3 align="center">Trying To be Professinal Web Developer And Programmer</h3>
