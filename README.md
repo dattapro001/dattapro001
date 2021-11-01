@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Website Devolopment]
+- 🔭 I’m currently working on [Website Development]
 
 - 🌱 I’m currently learning **Java,Css And Html.**
 
