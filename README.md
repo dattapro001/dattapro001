@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [Website Development]
 
-- 🌱 I’m currently learning **Java,Css And Html.**
+- 🌱 I’m currently learning **React, Python And JavaScript.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
 - 📫 How to reach me **dattapro001@gmail.com**
-                    **rontheboss00797@gmail.com**
+                    
 
 - ⚡ Fun fact **I used to play video games and coding with full mug of coffee in RGB Setup(in  Future).**
 
